@@ -13,6 +13,15 @@ textarea {
   padding: 10px;
 }
 
+table {
+  display: inline-block;
+  align-items: center;
+}
+
+button {
+  size: 400px;
+}
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
